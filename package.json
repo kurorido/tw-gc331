@@ -1,0 +1,22 @@
+{
+  "name": "tw-gc331-fetcher",
+  "version": "1.0.0",
+  "description": "Fetch Taiwan GC331 exchange rate data",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "fetch": "node index.js"
+  },
+  "keywords": [
+    "taiwan",
+    "exchange-rate",
+    "gc331"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
+}
+
