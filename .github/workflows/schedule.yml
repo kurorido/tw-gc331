@@ -3,9 +3,9 @@ name: Fetch GC331 Exchange Rate
 on:
   schedule:
     # Run at 00:00 UTC (08:00 Taiwan Time) on the 5th, 15th, and 25th of each month
-    - cron: '0 0 5 * *'   # 5th of every month
-    - cron: '0 0 15 * *'  # 15th of every month
-    - cron: '0 0 25 * *'  # 25th of every month
+    - cron: '0 0 1 * *'   # 5th of every month
+    - cron: '0 0 11 * *'  # 15th of every month
+    - cron: '0 0 21 * *'  # 25th of every month
   workflow_dispatch:  # Allow manual trigger
 
 jobs:
