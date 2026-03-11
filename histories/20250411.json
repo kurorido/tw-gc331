@@ -1,0 +1,146 @@
+{
+	"start": "20250411",
+	"end": "20250420",
+	"items": [
+		{
+			"code": "ARS",
+			"buyValue": "0.03076",
+			"sellValue": "0.03085"
+		},
+		{
+			"code": "AUD",
+			"buyValue": "20.75000",
+			"sellValue": "20.95000"
+		},
+		{
+			"code": "BRL",
+			"buyValue": "5.78290",
+			"sellValue": "5.80040"
+		},
+		{
+			"code": "CAD",
+			"buyValue": "23.03000",
+			"sellValue": "23.23000"
+		},
+		{
+			"code": "CHF",
+			"buyValue": "37.28000",
+			"sellValue": "37.53000"
+		},
+		{
+			"code": "CLP",
+			"buyValue": "0.03469",
+			"sellValue": "0.03480"
+		},
+		{
+			"code": "CNY",
+			"buyValue": "4.52000",
+			"sellValue": "4.57000"
+		},
+		{
+			"code": "DKK",
+			"buyValue": "4.78910",
+			"sellValue": "4.80360"
+		},
+		{
+			"code": "EUR",
+			"buyValue": "35.51000",
+			"sellValue": "35.91000"
+		},
+		{
+			"code": "GBP",
+			"buyValue": "42.54000",
+			"sellValue": "42.94000"
+		},
+		{
+			"code": "HKD",
+			"buyValue": "4.22200",
+			"sellValue": "4.28200"
+		},
+		{
+			"code": "IDR",
+			"buyValue": "0.00199",
+			"sellValue": "0.00200"
+		},
+		{
+			"code": "ILS",
+			"buyValue": "8.86623",
+			"sellValue": "8.89306"
+		},
+		{
+			"code": "INR",
+			"buyValue": "0.38667",
+			"sellValue": "0.38784"
+		},
+		{
+			"code": "JPY",
+			"buyValue": "0.21920",
+			"sellValue": "0.22320"
+		},
+		{
+			"code": "KRW",
+			"buyValue": "0.02240",
+			"sellValue": "0.02247"
+		},
+		{
+			"code": "MYR",
+			"buyValue": "7.45070",
+			"sellValue": "7.47320"
+		},
+		{
+			"code": "NOK",
+			"buyValue": "3.14290",
+			"sellValue": "3.15240"
+		},
+		{
+			"code": "NZD",
+			"buyValue": "18.89000",
+			"sellValue": "19.09000"
+		},
+		{
+			"code": "PEN",
+			"buyValue": "9.03473",
+			"sellValue": "9.06207"
+		},
+		{
+			"code": "PHP",
+			"buyValue": "0.57680",
+			"sellValue": "0.57860"
+		},
+		{
+			"code": "PLN",
+			"buyValue": "8.53747",
+			"sellValue": "8.56331"
+		},
+		{
+			"code": "SEK",
+			"buyValue": "3.26000",
+			"sellValue": "3.36000"
+		},
+		{
+			"code": "SGD",
+			"buyValue": "24.54000",
+			"sellValue": "24.72000"
+		},
+		{
+			"code": "THB",
+			"buyValue": "0.95280",
+			"sellValue": "0.99280"
+		},
+		{
+			"code": "TWD",
+			"buyValue": "1.00000",
+			"sellValue": "1.00000"
+		},
+		{
+			"code": "USD",
+			"buyValue": "33.04000",
+			"sellValue": "33.14000"
+		},
+		{
+			"code": "ZAR",
+			"buyValue": "1.74200",
+			"sellValue": "1.82200"
+		}
+	]
+}

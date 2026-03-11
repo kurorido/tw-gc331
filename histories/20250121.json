@@ -1,0 +1,146 @@
+{
+	"start": "20250121",
+	"end": "20250131",
+	"items": [
+		{
+			"code": "ARS",
+			"buyValue": "0.03173",
+			"sellValue": "0.03182"
+		},
+		{
+			"code": "AUD",
+			"buyValue": "20.41000",
+			"sellValue": "20.61000"
+		},
+		{
+			"code": "BRL",
+			"buyValue": "5.41380",
+			"sellValue": "5.43020"
+		},
+		{
+			"code": "CAD",
+			"buyValue": "22.97000",
+			"sellValue": "23.17000"
+		},
+		{
+			"code": "CHF",
+			"buyValue": "36.14000",
+			"sellValue": "36.39000"
+		},
+		{
+			"code": "CLP",
+			"buyValue": "0.03268",
+			"sellValue": "0.03278"
+		},
+		{
+			"code": "CNY",
+			"buyValue": "4.47600",
+			"sellValue": "4.52600"
+		},
+		{
+			"code": "DKK",
+			"buyValue": "4.51720",
+			"sellValue": "4.53090"
+		},
+		{
+			"code": "EUR",
+			"buyValue": "33.88000",
+			"sellValue": "34.28000"
+		},
+		{
+			"code": "GBP",
+			"buyValue": "40.25000",
+			"sellValue": "40.65000"
+		},
+		{
+			"code": "HKD",
+			"buyValue": "4.21500",
+			"sellValue": "4.27500"
+		},
+		{
+			"code": "IDR",
+			"buyValue": "0.00203",
+			"sellValue": "0.00203"
+		},
+		{
+			"code": "ILS",
+			"buyValue": "9.03283",
+			"sellValue": "9.06019"
+		},
+		{
+			"code": "INDIA",
+			"buyValue": "0.38093",
+			"sellValue": "0.38208"
+		},
+		{
+			"code": "JAPAN",
+			"buyValue": "0.20880",
+			"sellValue": "0.21280"
+		},
+		{
+			"code": "KOREA",
+			"buyValue": "0.02247",
+			"sellValue": "0.02253"
+		},
+		{
+			"code": "MALAYSIA",
+			"buyValue": "7.32040",
+			"sellValue": "7.34260"
+		},
+		{
+			"code": "NORWAY",
+			"buyValue": "2.87900",
+			"sellValue": "2.88770"
+		},
+		{
+			"code": "ZEALAND",
+			"buyValue": "18.48000",
+			"sellValue": "18.68000"
+		},
+		{
+			"code": "PERU",
+			"buyValue": "8.75497",
+			"sellValue": "8.78149"
+		},
+		{
+			"code": "PHILIPPINES",
+			"buyValue": "0.56280",
+			"sellValue": "0.56450"
+		},
+		{
+			"code": "POLAND",
+			"buyValue": "7.89833",
+			"sellValue": "7.92225"
+		},
+		{
+			"code": "SEK",
+			"buyValue": "2.92000",
+			"sellValue": "3.02000"
+		},
+		{
+			"code": "SINGAPORE",
+			"buyValue": "24.11000",
+			"sellValue": "24.29000"
+		},
+		{
+			"code": "THAILAND",
+			"buyValue": "0.93690",
+			"sellValue": "0.97690"
+		},
+		{
+			"code": "TAIWAN",
+			"buyValue": "1.00000",
+			"sellValue": "1.00000"
+		},
+		{
+			"code": "STATES",
+			"buyValue": "33.01500",
+			"sellValue": "33.11500"
+		},
+		{
+			"code": "AFRICA",
+			"buyValue": "1.71200",
+			"sellValue": "1.79200"
+		}
+	]
+}
