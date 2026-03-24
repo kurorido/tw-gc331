@@ -68,47 +68,47 @@
 			"sellValue": "9.06019"
 		},
 		{
-			"code": "INDIA",
+			"code": "INR",
 			"buyValue": "0.38093",
 			"sellValue": "0.38208"
 		},
 		{
-			"code": "JAPAN",
+			"code": "JPY",
 			"buyValue": "0.20880",
 			"sellValue": "0.21280"
 		},
 		{
-			"code": "KOREA",
+			"code": "KRW",
 			"buyValue": "0.02247",
 			"sellValue": "0.02253"
 		},
 		{
-			"code": "MALAYSIA",
+			"code": "MYR",
 			"buyValue": "7.32040",
 			"sellValue": "7.34260"
 		},
 		{
-			"code": "NORWAY",
+			"code": "NOK",
 			"buyValue": "2.87900",
 			"sellValue": "2.88770"
 		},
 		{
-			"code": "ZEALAND",
+			"code": "NZD",
 			"buyValue": "18.48000",
 			"sellValue": "18.68000"
 		},
 		{
-			"code": "PERU",
+			"code": "PEN",
 			"buyValue": "8.75497",
 			"sellValue": "8.78149"
 		},
 		{
-			"code": "PHILIPPINES",
+			"code": "PHP",
 			"buyValue": "0.56280",
 			"sellValue": "0.56450"
 		},
 		{
-			"code": "POLAND",
+			"code": "PLN",
 			"buyValue": "7.89833",
 			"sellValue": "7.92225"
 		},
@@ -118,27 +118,27 @@
 			"sellValue": "3.02000"
 		},
 		{
-			"code": "SINGAPORE",
+			"code": "SGD",
 			"buyValue": "24.11000",
 			"sellValue": "24.29000"
 		},
 		{
-			"code": "THAILAND",
+			"code": "THB",
 			"buyValue": "0.93690",
 			"sellValue": "0.97690"
 		},
 		{
-			"code": "TAIWAN",
+			"code": "TWD",
 			"buyValue": "1.00000",
 			"sellValue": "1.00000"
 		},
 		{
-			"code": "STATES",
+			"code": "USD",
 			"buyValue": "33.01500",
 			"sellValue": "33.11500"
 		},
 		{
-			"code": "AFRICA",
+			"code": "ZAR",
 			"buyValue": "1.71200",
 			"sellValue": "1.79200"
 		}
